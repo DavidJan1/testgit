@@ -1,0 +1,2 @@
+# testgit
+Šolski testni projek
